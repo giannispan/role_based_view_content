@@ -1,5 +1,5 @@
 # role_based_view_content
-A simple app in node.js, using passport.js to authenticate users and let them view some content based on their roles
+A simple app in node.js (no ui), using passport.js to authenticate users and let them view some content based on their roles
 
 Make user you have node.js and mongodb running in port 27017. Before you start the server uncommnet line 12 in server.js
 1. Run "npm install"
